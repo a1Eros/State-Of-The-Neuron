@@ -1,4 +1,4 @@
-February 24th
+January 24th, 2026
 
 Today, I created the State-Of-The-Neuron repository at the urging of some friends.
 The pruposes of this repository are as follows:
@@ -7,7 +7,7 @@ The pruposes of this repository are as follows:
 	*Report my innovations and inventions in the field of neuroenhancement
 	*Report miscellaneous ideas connected to neuro-enhancement and its practical application
 
-February 25th
+January 25th, 2026
 
 Dual N-back: Good progress in the positive direction. Moved from 5.20 to 5.56. I am pleased with how things are working and hope to reach D6B in the next 2-3 days. This seems more than feasible, though I am concenred that the way the d' system works, as it rewards very low progress for my liking. I will likely fork QuadBox tomorrow and fix gthe issue now that I've given its d' mode a chance - it has simply not satisfied. This, realistically, could drop me from the mid 5s to the low 5s, but studies have shown that an 85% accuracy range is the best for learning. Whether this applies to MET practice is uncertain, but probable (greater than two-thirds chance). I need to find the study and see if I can link it here tomorrow.
 
@@ -15,7 +15,7 @@ IMS: Some would say this is a questionable practice. These people do not include
 
 Quad N-back: Gains were negative here. I went from 4.60 to 4.53 on the d' scaling system. I suspect this has to do with me placing the more demanding Quad after Dual N-back and IMS, meaning I used depleted energy to perform the task. After this experience, and a few more that have caused harm to my progress due to improper difficulty-ordering I'll maintain my regular regimen consisting of QnB, then DnB. Other exercises, IMS included, will have to be moved later. IMS will be perfomred after a meal, several hours all other exercise to permit glucose replenishment and cognitive rejuvenetion.
 
-February 26th
+January 26th, 2026
 
 IMS: Thiry minutes. Minimal resolution change (2.5/10). Still a positive indication. Had 7.5 grams of Creapure creatine monohydrates before this to fuel my brain. Effect was not noticible. Will use 10 grams starting tomorrow.
 
@@ -23,6 +23,14 @@ QnB: 4.56 to 4.66. Not great, but I think I'm approaching my d'-adjusted limit, 
 
 DnB: Some progress. Less than I wanted, unfortunately. 5.56 to 5.63, but, in part, this was due to me turning feedback for inputs off. This made me drop initially, but I still ended up gaining. I will keep feedback off for at least a week and observe how it goes.
 
-February 27th
+January 27th, 2026
 
 Today, due to fatigue from prior days of training, I decided to take my weekly rest day. I haven't yet quantized the efficacy of rest days, the tracking of which, along with several other changes, will be coming to my training regimen soon, but I have noticed subjective benefits from taking a day off around once every seven days. Some people suggest that no rest days should be takne, but I believe this is counter-prodcutive. Soon, I will have the data to either prove or disprove my hypothesis. Apart from that, there is little to report save the fact that sleep has been substandard. I will push my bedtime from 11pm to 10:30pm and will observe the benefits.
+
+January 28th, 2026
+
+QnB: Very positive progress in Quad. Moved from 4.66 to 4.84 as my final score of the day, though, at maximum, I reach 4.86 before dropping slightly. Pleased. Looks like Q5B will easily be achieved tomorrow. This experience, however, led me to formally diagnosing the d' issue that has been at the back of my mind for days - the ease factor. Currently, the way the architecture is set up, a user can, essentially, make gains in QuadNBack by playing Tri, Dual, or even Mono. All it takes is a high-score in a single category, and the d' progression system still counts toward progress. For instance, in one partiuclarly aberrant round I managed to get 100% on my poisition input, and 0% on sound, color, and shape (this seems to be downstream from me removing immediate feedback - it is highly likely that, in a no-feedback high-stimulus scenario like QnB, a lack of feedback makes N+-1 interference far easier to fall prey to. This requires practice to overcome, but the difficulties it is imposing makes me belivee that it is a useful tool in consolidating QnB gains, especially in a mode as difficult as variable). In short, pleased with progress, unsatisfied with the system. Currently working on my own version to appeal to my idiosyncratic tastes. I've been formulating a new progession system in my mind for several days now, and my final observation (the need for minimum % in all categories before a user progresses) supports my prior grievances.
+
+DnB: Progress here was, frankly, abysmal. Moved from 5.63 back to 5.58, essentially negating 3 days of progress. This is strange because, logically, DnB should be quote easy for me, given that I have reached this level in the past with far stricter non-d'-pime settings and, in one or two instances, surpassed it. Perhaps the d' system is acting on me psychologically, wearing down my need to achieve excellent scores on a subconscious level since the mind knows that even a mediocre score can translate to progress in this mode. If this is the case, I have found something very concerning about the system that needs to be removed. Trying the d'-prime system, for all its faults (and innovations) has given me significant food for thought. Other factors contributing to my poor DnB performance include a lack of rest due to a busy schedule and a late-start time for the same reason. Obviously, this leads to fatigue and, as much as I try, I feel my mind wandering, half-asleep already. I am not doing myself any service with such a lax method, and so will revert to training in the morning, this late-night system, although theoretically promising, being, essentially a massive handicap to increase of my intelligence. Moreover, such a program reduces sleep, which is of the utmost importance. Noted.
+
+Overall: This day's progress was below my goals, but the introspection that failure fostered helped me make significant strides in understanding the psychology and mechanics of scoring, which has further polished my vision of how incentives can be altered to force the brain into compliance with training (the brain tries to be lazy, always - never permit it to follow its desires). Goodnight!
